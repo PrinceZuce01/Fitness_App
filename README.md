@@ -231,5 +231,4 @@ Response:
 
 ## Notes
 
-- Pictures will be added for better guidance.
 - Ensure MySQL is running before starting the application.
